@@ -1,6 +1,6 @@
 # SistemaRifas
 Este proyecto contempla ABMC, Transacciones, etc. contiene funciones tecnicas y funcional.
-El proyecto de aplicacin de escritorio esta basado en C# con una base de datos de SQL SERVER
+El proyecto de aplicacion de escritorio esta basado en C# con una base de datos de SQL SERVER
 
 ### Base de datos de ejemplo
 ```sql
